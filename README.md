@@ -1,6 +1,6 @@
 # Header - README Template
 
-![tudor_rose](https://drive.google.com/uc?export=view&id=12PhVkvTBd5YzO5HEqEiH7rdXjLGs-EkR){:height="200px" width="200px"}
+<img src="https://drive.google.com/uc?export=view&id=12PhVkvTBd5YzO5HEqEiH7rdXjLGs-EkR" alt="Tudor Rose - png" width="200"/>
 
 >## Table of Contents
 * [About the Project](#about_the_project)
